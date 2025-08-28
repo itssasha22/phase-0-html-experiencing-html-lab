@@ -234,7 +234,7 @@ with an appropriate title inside.
 Here's the full example code:
 
 ```html
-<h1>My Plant List</h1>
+<h1>My plants<h1>
 <p>Some of my favorite plants!</p>
 <ul>
   <li>"Monstera deliciosa"</li>
@@ -245,7 +245,7 @@ Here's the full example code:
 </ul>
 ```
 
-![Final Document - unordered list with Header and title ](https://curriculum-content.s3.amazonaws.com/phase-0/html-experiencing-html-lab/final_list.png)
+html-experiencing-html-lab/final_lis![Final Document - unordered list with Header and title ](https://curriculum-content.s3.amazonaws.com/phase-0/t.png)
 
 When you're done, it is time to run this assignment's tests. Make sure that you
 have your HTML content in a file called `my_list.html` in order to pass the
