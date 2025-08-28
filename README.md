@@ -221,7 +221,6 @@ Let's introduce our list by adding some background:
 Take a look at your "rendered page" and verify the result is to your liking.
 
 ![List displayed as an unordered list with title](https://curriculum-content.s3.amazonaws.com/phase-0/html-experiencing-html-lab/ul_list.png)
-
 ### Put a Header on It
 
 Lastly, let's put a "heading" on the top of our document. Add an `h1` element
